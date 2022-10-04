@@ -20,4 +20,6 @@
     - JSONRPC
       - [**JSON RPC Introduction**](/json-rpc.md)
     - [**Porting Plugins**](/port-plugins.md)
+- Plugin Templates
+  - [**Python Template**](/python.template.md)
 - [**How To Create a Theme**](/how-to-create-a-theme.md)
